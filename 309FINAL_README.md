@@ -9,7 +9,7 @@ This project analyzes the Spotify Streaming Insights dataset to understand which
 # Part 1 — Data Pre‑Processing
 - Loaded the dataset directly from GitHub
 - Explored structure, dimensions, and variable types
-- Created a derived categorical variable for musical mode (Major → Yes, Minor → No)
+- Created a derived categorical variable for musical mode (Major - Yes, Minor - No)
 - Selected Popularity as the response variable
 - Identified five predictors: Danceability, Energy, Valence, Decibel, and Mode
 
