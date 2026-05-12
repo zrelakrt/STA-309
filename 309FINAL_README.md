@@ -59,5 +59,5 @@ A comparison plot was generated using bwplot(model_results).
 
 This indicates that popularity depends on multiple interacting features, and nonlinear models capture these relationships more effectively.
 
-#Final Interpretation
+# Final Interpretation
 The analysis shows that Energy and Danceability are consistently the strongest predictors of popularity. Popularity is not purely linear, and the Random Forest model provides the most accurate predictions. However, external factors such as marketing, artist fame, and playlist placement are not included in the dataset, limiting predictive power. Overall, the project demonstrates how musical attributes relate to popularity and how different modeling approaches compare in predictive performance.
